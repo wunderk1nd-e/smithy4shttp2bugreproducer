@@ -17,7 +17,7 @@ lazy val root = (project in file("."))
       "com.typesafe.akka" %% "akka-stream" % "2.8.2",
       "com.typesafe.akka" %% "akka-http" % "10.5.2",
       "ch.qos.logback" % "logback-classic" % "1.4.7",
-      "org.http4s" %% "http4s-ember-server" % "0.23.19",
+      "org.http4s" %% "http4s-ember-server" % "0.23.20",
       "org.scalactic" %% "scalactic" % "3.2.16",
       "org.scalatest" %% "scalatest" % "3.2.16" % "test"
     ),
